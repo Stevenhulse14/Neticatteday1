@@ -1,0 +1,1 @@
+Announcing a Project Delay: The project lead must inform the team and stakeholders that a key project milestone will be delayed due to unforeseen issues. The message needs to be clear, professional, and should outline the reasons for the delay as well as the steps being taken to mitigate any negative impacts.

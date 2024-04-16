@@ -1,0 +1,1 @@
+Clarifying Project Requirements: After a project briefing, a team member is confused about some of the new requirements. They must draft an email to the project manager asking for clarification, ensuring the email is structured in a way that is easy to read and responds to without requiring excessive back-and-forth.

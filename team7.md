@@ -1,0 +1,1 @@
+Welcoming a New Team Member: The team leader sends out an email to the team introducing a new developer. The email should make the new member feel welcomed and provide essential information about the team’s current projects and how the new member will fit into the ongoing work.

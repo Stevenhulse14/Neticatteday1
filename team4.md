@@ -1,0 +1,1 @@
+Sensitive Feedback to a Peer: A team member notices that another developer has repeatedly made the same error in several code reviews. They need to send a message that offers constructive criticism but is also encouraging and respectful, avoiding any tone that could be perceived as condescending or harsh.
